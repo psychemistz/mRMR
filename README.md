@@ -1,1 +1,2 @@
-# mRMR matlab code folked from Peng's Lab http://home.penglab.com/proj/mRMR/
+# mRMR matlab 
+Code folked from Peng's Lab http://home.penglab.com/proj/mRMR/
